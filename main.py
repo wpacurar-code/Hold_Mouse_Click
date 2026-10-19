@@ -2,7 +2,6 @@ import keyboard
 import pyautogui
 import time
 
-
 # toggle mouse click on key
 def holdClick():
     # prevents action on repeat key press
